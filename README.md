@@ -22,13 +22,14 @@ If you want to test the network, run the following code
 test_cnnimageretrieval;
 
 
+## Reference
 If you are interested in our work and want to cite it, please acknowledge the following paper:
 
+```
 @article{Min-DLRTN-TMM2020,
   title={A Two-Stage Triplet Network Training Framework for Image Retrieval},
   author={Min, Weiqing and Mei, Shuhuan and Li, Zhuo and Jiang, Shuqiang},
   journal={IEEE Transactions on Multimedia (Accepted)},
   year={2020},
 }
-
-
+```
